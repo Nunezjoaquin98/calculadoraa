@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536003489 source:c:\users\joaco\documents\facultad joaco\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1536006105 source:c:\users\joaco\documents\facultad joaco\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1535836385 c:\users\joaco\documents\facultad joaco\calculadora\funciones.h
+
