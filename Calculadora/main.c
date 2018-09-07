@@ -108,7 +108,7 @@ int main()
                 break;
             }
         case 5:
-            printf("Saliendo") ;
+            printf("\n Saliendo \n") ;
             system("pause") ;
             opcion = 5 ;
             break;
